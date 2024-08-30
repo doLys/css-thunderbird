@@ -1,10 +1,3 @@
-Oui, en copiant et collant le texte que j'ai fourni, vous obtiendrez un fichier **`README.md`** correctement formaté avec toutes les balises de code nécessaires. Voici un rappel sur les balises de code en Markdown :
-
-- Pour le code en ligne, utilisez un seul backtick (\`) de chaque côté du code.
-- Pour les blocs de code, utilisez trois backticks (\`\`\`) avant et après le code.
-
-### Voici le contenu complet avec toutes les balises de code clairement indiquées
-
 ```markdown
 # css_TB.sh
 
@@ -110,9 +103,11 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 4. Poussez vers la branche (`git push origin feature/nouvelle-fonctionnalite`).
 5. Ouvrez une Pull Request.
 
+
 ## License
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence AGPL v3 - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
 
 ## Auteurs
 
