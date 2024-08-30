@@ -140,11 +140,11 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
 
-1. Forkez le projet.
-2. Créez une nouvelle branche pour votre fonctionnalité (`git checkout -b feature/nouvelle-fonctionnalite`).
-3. Commitez vos modifications (`git commit -m 'Ajoute une nouvelle fonctionnalité'`).
-4. Poussez vers la branche (`git push origin feature/nouvelle-fonctionnalite`).
-5. Ouvrez une Pull Request.
+1. Fork the project.
+2. Create a new branch for your feature (`git checkout -b feature/nouvelle-fonctionnalite`).
+3. Commit your changes (`git commit -m 'Ajoute une nouvelle fonctionnalité'`).
+4. Push to the branch (`git push origin feature/nouvelle-fonctionnalite`).
+5. Open a Pull Request.
 
 1. Fork the project.
 2. Create a new branch for your feature (`git checkout -b feature/new-feature`).
@@ -174,4 +174,3 @@ Merci à tous ceux qui ont contribué à ce projet. N'hésitez pas à poser des 
 
 Thank you to everyone who contributed to this project. Feel free to ask questions or make suggestions to improve the script.
 ```
-
